@@ -49,7 +49,7 @@ Follow the steps above to integrate `jukitty` in your jupyter console.
 ### Build a `jukitty lab`
 * using tmux and e.g. [jupyter-vim](https://github.com/wmvanvliet/jupyter-vim)
   we could build a full-featured replacement for jupyter lab that runs entirely
-  on the console (see [#1](https://github.com/grst/jukitty/issues/1)
+  on the console (see [#1](https://github.com/grst/jukitty/issues/1))
 
 ### Limitations
 * currently, only png images are supported
